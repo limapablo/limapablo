@@ -5,7 +5,7 @@
 📊 MBA in Data Science & Analytics – USP/ESALQ 
 🌎 Based in Rio de Janeiro, Brazil  
 🧠 Passionate about data-driven solutions for social development  
-📚 Focused on Data Science, Machine Learning, and Public Policy  
+📚 Focused on Data Science, Machine Learning and Public Policy  
 
 ---
 
