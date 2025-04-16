@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**limapablo/limapablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Pablo 👋</h1>
 
-Here are some ideas to get you started:
+🎓 Bachelor’s in Business Administration – UFRRJ  
+📊 MBA in Data Science & Analytics – USP/ESALQ (2025)  
+🌎 Based in Rio de Janeiro, Brazil  
+🧠 Passionate about data-driven solutions for social development  
+📚 Focused on Data Science, Machine Learning, and Public Policy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Projects
+
+- 🔍 [Municipal Clustering with K-Means](https://github.com/limapablo/kmeans-saneamento-educacao)  
+  Clustering Brazilian municipalities based on sanitation and education indicators using K-Means.
+
+---
+
+### 📫 Connect with me
+
+- 🌐 [limapablo.com](https://limapablo.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/limapablo/)  
+- 📄 [Lattes CV](http://lattes.cnpq.br/3015923614657329)  
+- 📧 lima.pablohs@gmail.com
+
+---
+
+> “The goal is to turn data into information, and information into insight.” — Carly Fiorina
+
