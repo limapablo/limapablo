@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pablo 👋</h1>
 
 🎓 Bachelor’s in Business Administration – UFRRJ  
-📊 MBA in Data Science & Analytics – USP/ESALQ (2025)  
+📊 MBA in Data Science & Analytics – USP/ESALQ 
 🌎 Based in Rio de Janeiro, Brazil  
 🧠 Passionate about data-driven solutions for social development  
 📚 Focused on Data Science, Machine Learning, and Public Policy  
