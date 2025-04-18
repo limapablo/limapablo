@@ -13,7 +13,8 @@
 
 - 🔍 [Municipal Clustering with K-Means](https://github.com/limapablo/kmeans-saneamento-educacao)  
   Clustering Brazilian municipalities based on sanitation and education indicators using K-Means.
-
+- 🏠 Rental Price Prediction App
+  A machine learning model deployed as an app that predicts rental prices in the Federal District of Brazil using XGBoost.
 ---
 
 ### 📫 Connect with me
