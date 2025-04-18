@@ -11,10 +11,10 @@
 
 ### 🛠️ Projects
 
-- 🔍 [Municipal Clustering with K-Means](https://github.com/limapablo/kmeans-saneamento-educacao)<br>  
+- 🔍 [Municipal Clustering with K-Means](https://github.com/limapablo/kmeans-saneamento-educacao) 
   Clustering Brazilian municipalities based on sanitation and education indicators using K-Means.
-  
-- 🏠 [Rental Price Prediction App](https://github.com/limapablo/rental-price-prediction)<br>
+
+- 🏠 [Rental Price Prediction App](https://github.com/limapablo/rental-price-prediction)
   A machine learning model deployed as an app that predicts rental prices in the Federal District of Brazil using XGBoost.
 ---
 
