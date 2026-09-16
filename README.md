@@ -1,6 +1,6 @@
 <h1 align="center">Pablo Lima</h1>
 <p align="center">
-  Data & Analytics Professional · Python · SQL · Power BI · Machine Learning · Automation
+  Data Analyst · Business Intelligence · Power BI · SQL · Python · Automation
 </p>
 
 <p align="center">
@@ -13,71 +13,76 @@
 
 ## About me
 
-I am a data professional with a background in **Business Administration** and an **MBA in Data Science & Analytics from USP/ESALQ**.
+I am a **Data & Analytics professional** working across business intelligence, process improvement, automation and IT operations.
 
-My work sits at the intersection of **analytics, automation and business decision-making**. I enjoy turning fragmented operational data into reliable pipelines, clear dashboards and analytical products that help people make better decisions.
+Currently, I work at **TIVIT** as a Junior Process Analyst within **IT Governance & Analytics**, supporting analytical solutions, data transformation, reporting automation, data quality and process improvement initiatives.
 
-I am especially interested in:
+My background combines business and technology: I hold a **Bachelor's degree in Business Administration from UFRRJ** and an **MBA in Data Science & Analytics from USP/ESALQ**. My academic research applied clustering and multivariate analysis to public data from more than 5,500 Brazilian municipalities and was later published as a scientific paper.
 
-- **Data & Analytics Engineering** — Python, SQL, data modeling and automation
-- **Business Intelligence** — Power BI, KPI design and operational analytics
-- **Machine Learning** — predictive modeling, clustering and applied ML
-- **Process Improvement** — using data to reduce manual work and improve decision quality
+My current technical focus includes:
 
-> Currently building a portfolio focused on practical, end-to-end data projects with strong business context.
+- **Data Analysis & Business Intelligence** — Power BI, Power Query, DAX, data modeling and KPI design
+- **SQL & Python** — data preparation, analytical workflows, automation and reproducible analysis
+- **Automation & Data Quality** — Power Automate, Dataflows, validation and process improvement
+- **Applied Data Science** — clustering, regression, statistics and model evaluation
+
+I am also deepening my expertise in **data modeling, analytics engineering and data engineering**, with an emphasis on building reliable and well-structured data solutions.
 
 ---
 
 ## Featured projects
 
 ### [IT Service Desk Analytics](https://github.com/limapablo/it-service-desk-analytics)
-**Python · SQL · Power BI · Operational Analytics**
+**Python · PostgreSQL · SQL · Power BI · Operational Analytics**
 
-End-to-end analytics project focused on IT service desk data, from data preparation and modeling to operational KPIs and executive-ready insights.
+End-to-end analytics project focused on public IT service desk data, covering ingestion, validation, SQL modeling, KPI design and executive-ready reporting.
 
 ### [Municipal Sanitation & Education Clustering](https://github.com/limapablo/kmeans-saneamento-educacao)
 **Python · Scikit-learn · K-Means · Geospatial Analysis**
 
-Academic research project developed as my MBA capstone at USP/ESALQ, later published as an article. It applies clustering techniques to identify patterns among Brazilian municipalities using sanitation and education indicators.
+Academic research project developed as my MBA capstone at USP/ESALQ and later published as a scientific article. It applies clustering techniques to identify patterns among 5,556 Brazilian municipalities using sanitation and education indicators.
 
 ### [Rental Price Prediction](https://github.com/limapablo/rental-price-prediction)
-**Python · XGBoost · Machine Learning · Data Science**
+**Python · XGBoost · Machine Learning · Streamlit**
 
-A supervised machine learning project for rental price prediction, covering exploratory analysis, feature engineering, model training and evaluation.
+A supervised machine learning project for rental price prediction, covering exploratory analysis, feature engineering, model training, evaluation and deployment.
 
-### [Intelligent Loan Amortization Simulator](https://github.com/limapablo/n8n_simulador_de_amortizacao_inteligente)
-**n8n · Automation · Financial Modeling · Workflow Design**
+### [Intelligent Debt Amortization Simulator](https://github.com/limapablo/n8n_simulador_de_amortizacao_inteligente)
+**n8n · JavaScript · Automation · Financial Modeling**
 
-An automated workflow that simulates loan amortization scenarios and compares strategies to support better financial decisions.
+A decision-support workflow combining automation, financial modeling, live macroeconomic inputs and Monte Carlo simulation.
 
 ---
 
 ## Tech stack
 
-**Languages & Data**  
-Python · SQL · DAX · Pandas · NumPy · Scikit-learn
+**Data Analysis & BI**  
+Power BI · Power Query · DAX · Data Modeling · Data Visualization · KPI Design
 
-**Analytics & BI**  
-Power BI · Excel · Data Modeling · KPI Design · Exploratory Data Analysis
+**Data & Programming**  
+SQL · Python · PostgreSQL · Pandas · NumPy
 
-**Automation & Tools**  
-n8n · Git · GitHub · Jupyter · Linux
+**Automation & Quality**  
+Power Automate · Dataflows · n8n · Data Quality · Process Improvement
 
-**Machine Learning**  
-XGBoost · Clustering · Regression · Feature Engineering · Model Evaluation
+**Applied Data Science**  
+Scikit-learn · XGBoost · Clustering · Regression · Statistics · Model Evaluation
+
+**Tools**  
+Git · GitHub · Jupyter · Linux
 
 ---
 
 ## Education
 
 - **MBA in Data Science & Analytics** — USP/ESALQ
-- **Bachelor's in Business Administration** — UFRRJ
+- **Bachelor's Degree in Business Administration** — UFRRJ
 
 ---
 
 ## Research
 
-My MBA capstone research on sanitation and education indicators in Brazilian municipalities was later developed into a published academic article.
+My MBA capstone research on sanitation and education indicators in Brazilian municipalities was later developed into a published scientific article.
 
 **DOI:** [10.29327/23189258.1068040](https://doi.org/10.29327/23189258.1068040)
 
@@ -85,7 +90,7 @@ My MBA capstone research on sanitation and education indicators in Brazilian mun
 
 ## Let's connect
 
-I am interested in **Data Analytics, Business Intelligence, Analytics Engineering and Data Science** opportunities, especially roles where technology can be used to automate processes and turn data into measurable business value.
+I am interested in opportunities across **Data Analysis, Business Intelligence, operational analytics, automation and analytics engineering**, especially where data can improve processes and support better decisions.
 
 - Website: [limapablo.com](https://limapablo.com)
 - LinkedIn: [linkedin.com/in/limapablo](https://www.linkedin.com/in/limapablo/)
