@@ -1,6 +1,6 @@
 <h1 align="center">Pablo Lima</h1>
 <p align="center">
-  Data Analyst · Business Intelligence · Power BI · SQL · Python · Automation
+  Data Analytics · Business Intelligence · Power BI · SQL · Python · Automation
 </p>
 
 <p align="center">
@@ -13,20 +13,20 @@
 
 ## About me
 
-I am a **Data & Analytics professional** working across business intelligence, process improvement, automation and IT operations.
-
-Currently, I work at **TIVIT** as a Junior Process Analyst within **IT Governance & Analytics**, supporting analytical solutions, data transformation, reporting automation, data quality and process improvement initiatives.
+I build independent **Data & Analytics** projects focused on business intelligence, automation, operational analytics and applied data science.
 
 My background combines business and technology: I hold a **Bachelor's degree in Business Administration from UFRRJ** and an **MBA in Data Science & Analytics from USP/ESALQ**. My academic research applied clustering and multivariate analysis to public data from more than 5,500 Brazilian municipalities and was later published as a scientific paper.
 
-My current technical focus includes:
+My work is centered on turning real problems into structured, documented and reproducible data solutions.
+
+Current focus:
 
 - **Data Analysis & Business Intelligence** — Power BI, Power Query, DAX, data modeling and KPI design
 - **SQL & Python** — data preparation, analytical workflows, automation and reproducible analysis
-- **Automation & Data Quality** — Power Automate, Dataflows, validation and process improvement
+- **Automation & Data Solutions** — workflow automation, integrations, validation and practical tools
 - **Applied Data Science** — clustering, regression, statistics and model evaluation
 
-I am also deepening my expertise in **data modeling, analytics engineering and data engineering**, with an emphasis on building reliable and well-structured data solutions.
+I am also expanding toward **analytics engineering and data engineering**, with emphasis on robust modeling, transformations and end-to-end data products.
 
 ---
 
@@ -35,7 +35,7 @@ I am also deepening my expertise in **data modeling, analytics engineering and d
 ### [IT Service Desk Analytics](https://github.com/limapablo/it-service-desk-analytics)
 **Python · PostgreSQL · SQL · Power BI · Operational Analytics**
 
-End-to-end analytics project focused on public IT service desk data, covering ingestion, validation, SQL modeling, KPI design and executive-ready reporting.
+End-to-end analytics project based on public IT service desk data, covering ingestion, validation, SQL modeling, KPI design and executive-ready reporting.
 
 ### [Municipal Sanitation & Education Clustering](https://github.com/limapablo/kmeans-saneamento-educacao)
 **Python · Scikit-learn · K-Means · Geospatial Analysis**
@@ -62,8 +62,8 @@ Power BI · Power Query · DAX · Data Modeling · Data Visualization · KPI Des
 **Data & Programming**  
 SQL · Python · PostgreSQL · Pandas · NumPy
 
-**Automation & Quality**  
-Power Automate · Dataflows · n8n · Data Quality · Process Improvement
+**Automation & Integration**  
+n8n · APIs · Workflow Automation · Data Validation
 
 **Applied Data Science**  
 Scikit-learn · XGBoost · Clustering · Regression · Statistics · Model Evaluation
@@ -90,7 +90,7 @@ My MBA capstone research on sanitation and education indicators in Brazilian mun
 
 ## Let's connect
 
-I am interested in opportunities across **Data Analysis, Business Intelligence, operational analytics, automation and analytics engineering**, especially where data can improve processes and support better decisions.
+If you are interested in collaborating on **Data Analytics, Business Intelligence, automation or applied data projects**, feel free to reach out.
 
 - Website: [limapablo.com](https://limapablo.com)
 - LinkedIn: [linkedin.com/in/limapablo](https://www.linkedin.com/in/limapablo/)
