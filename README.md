@@ -74,17 +74,6 @@ An end-to-end analytics project using public IT service desk data from 2020–20
 
 ---
 
-### [Alexandria](https://github.com/limapablo/Alexandria)
-**Python · Flask · SQLite · OCR · GitHub Actions · Windows/Linux**
-
-A cross-platform, local-first document library focused on acquisition, text extraction, OCR, search and source tracking.
-
-The project already includes core architecture, local security controls, automated tests and cross-platform CI, but the application is still evolving toward a more complete and polished release.
-
-**Status:** early-stage / active development.
-
----
-
 ## Technical toolbox
 
 **Data & BI**  
