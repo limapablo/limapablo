@@ -1,97 +1,146 @@
-<h1 align="center">Pablo Lima</h1>
-<p align="center">
-  Data Analytics · Business Intelligence · Power BI · SQL · Python · Automation
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://limapablo.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/limapablo/">LinkedIn</a> ·
-  <a href="http://lattes.cnpq.br/3015923614657329">Lattes CV</a>
-</p>
+# Pablo Lima
 
----
+### Data & Analytics · Automation · Applied Data Science
 
-## About me
+I turn real-world problems and messy data into **reproducible analytical products, automations and decision-support tools**.
 
-I build independent **Data & Analytics** projects focused on business intelligence, automation, operational analytics and applied data science.
+[![Portfolio](https://img.shields.io/badge/Portfolio-limapablo.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://limapablo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limapablo/)
+[![Research](https://img.shields.io/badge/Published_Research-DOI-555555?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.29327/23189258.1068040)
 
-My background combines business and technology: I hold a **Bachelor's degree in Business Administration from UFRRJ** and an **MBA in Data Science & Analytics from USP/ESALQ**. My academic research applied clustering and multivariate analysis to public data from more than 5,500 Brazilian municipalities and was later published as a scientific paper.
-
-My work is centered on turning real problems into structured, documented and reproducible data solutions.
-
-Current focus:
-
-- **Data Analysis & Business Intelligence** — Power BI, Power Query, DAX, data modeling and KPI design
-- **SQL & Python** — data preparation, analytical workflows, automation and reproducible analysis
-- **Automation & Data Solutions** — workflow automation, integrations, validation and practical tools
-- **Applied Data Science** — clustering, regression, statistics and model evaluation
-
-I am also expanding toward **analytics engineering and data engineering**, with emphasis on robust modeling, transformations and end-to-end data products.
+</div>
 
 ---
 
-## Featured projects
+## What I build
+
+I work across **data analysis, business intelligence, automation and applied data science**, with a strong focus on turning analysis into something people can actually use.
+
+My projects typically cover the full path from **raw data → validation → transformation → modeling → analysis → delivery**, whether the final product is a dashboard, application, automated workflow or research result.
+
+- **Analytics & BI:** data modeling, KPI design, Power BI, SQL and operational analytics
+- **Python & Data:** reusable pipelines, validation, APIs, notebooks and analytical applications
+- **Automation:** n8n, APIs, Google Apps Script and workflow orchestration
+- **Applied Data Science:** regression, clustering, statistics and model evaluation
+- **Software Engineering:** testing, CI, documentation, security and reproducible setup
+
+> I prefer solutions that are maintainable, documented and reproducible — not just code that works on one machine.
+
+---
+
+## Selected work
 
 ### [IT Service Desk Analytics](https://github.com/limapablo/it-service-desk-analytics)
 **Python · PostgreSQL · SQL · Power BI · Operational Analytics**
 
-End-to-end analytics project based on public IT service desk data, covering ingestion, validation, SQL modeling, KPI design and executive-ready reporting.
+End-to-end analytics project built on public IT service desk data from 2020–2026. The project is structured around ingestion, data-quality validation, analytical modeling, KPI design and executive-ready reporting.
 
-### [Municipal Sanitation & Education Clustering](https://github.com/limapablo/kmeans-saneamento-educacao)
-**Python · Scikit-learn · K-Means · Geospatial Analysis**
+**What it demonstrates:** analytical architecture, business questions, Python pipelines, SQL modeling, semantic thinking and BI delivery.
 
-Academic research project developed as my MBA capstone at USP/ESALQ and later published as a scientific article. It applies clustering techniques to identify patterns among 5,556 Brazilian municipalities using sanitation and education indicators.
+---
 
-### [Rental Price Prediction](https://github.com/limapablo/rental-price-prediction)
-**Python · XGBoost · Machine Learning · Streamlit**
+### [Alexandria](https://github.com/limapablo/Alexandria)
+**Python · Flask · SQLite · OCR · GitHub Actions · Windows/Linux**
 
-A supervised machine learning project for rental price prediction, covering exploratory analysis, feature engineering, model training, evaluation and deployment.
+Cross-platform local document library focused on acquisition, text extraction, OCR, search and source tracking. The application includes local-first architecture, security controls, automated tests and CI validation across Windows and Linux.
+
+**What it demonstrates:** application architecture, security-conscious development, testing, cross-platform packaging and maintainability.
+
+---
 
 ### [Intelligent Debt Amortization Simulator](https://github.com/limapablo/n8n_simulador_de_amortizacao_inteligente)
-**n8n · JavaScript · Automation · Financial Modeling**
+**n8n · JavaScript · APIs · Monte Carlo Simulation · Financial Modeling**
 
-A decision-support workflow combining automation, financial modeling, live macroeconomic inputs and Monte Carlo simulation.
+Decision-support workflow that combines live Brazilian macroeconomic data, automated calculations, sensitivity analysis and Monte Carlo simulation to compare debt, investment and financing scenarios.
+
+**What it demonstrates:** workflow automation, API integration, quantitative reasoning and auditable decision logic.
 
 ---
 
-## Tech stack
+### [Rental Price Prediction](https://github.com/limapablo/rental-price-prediction)
+**Python · XGBoost · Scikit-learn · Streamlit**
 
-**Data Analysis & BI**  
-Power BI · Power Query · DAX · Data Modeling · Data Visualization · KPI Design
+End-to-end machine-learning project for estimating residential rental prices in Brazil's Federal District, from exploratory analysis and feature engineering to model deployment in an interactive application.
 
-**Data & Programming**  
-SQL · Python · PostgreSQL · Pandas · NumPy
+**[Open the live app →](https://rental-price-prediction-apktbzfvgnenub8uc4bxrv.streamlit.app/)**
+
+---
+
+### [Sanitation & Education Clustering](https://github.com/limapablo/kmeans-saneamento-educacao)
+**Python · Scikit-learn · K-Means · Public Data · Research**
+
+Research project originally developed as an MBA capstone and later published as a scientific paper. It applies clustering and multivariate analysis to sanitation and education indicators across **5,556 Brazilian municipalities**.
+
+**[Read the published paper →](https://doi.org/10.29327/23189258.1068040)**
+
+---
+
+## Technical toolbox
+
+**Data & BI**  
+Power BI · Power Query · DAX · SQL · PostgreSQL · Data Modeling · KPI Design
+
+**Python & Applied Data Science**  
+Python · Pandas · NumPy · Scikit-learn · XGBoost · Statistics · Jupyter
 
 **Automation & Integration**  
-n8n · APIs · Workflow Automation · Data Validation
+n8n · REST APIs · Google Apps Script · Workflow Automation · Data Validation
 
-**Applied Data Science**  
-Scikit-learn · XGBoost · Clustering · Regression · Statistics · Model Evaluation
-
-**Tools**  
-Git · GitHub · Jupyter · Linux
+**Engineering & Delivery**  
+Git · GitHub · GitHub Actions · Linux · Debian · Shell · CI/CD · Testing · Documentation
 
 ---
 
-## Education
+## Engineering principles
 
-- **MBA in Data Science & Analytics** — USP/ESALQ
-- **Bachelor's Degree in Business Administration** — UFRRJ
+The goal is not only to make projects work, but to make them **understandable, reproducible and maintainable**.
+
+For new projects, I aim for:
+
+- clear repository and application architecture;
+- reproducible installation and environment setup;
+- explicit dependencies and configuration;
+- automated tests where they add meaningful confidence;
+- CI/CD and quality checks when appropriate;
+- safe handling of credentials and environment-specific values;
+- defensive error handling and useful logs;
+- documentation for both users and contributors;
+- transparent assumptions, limitations and trade-offs.
+
+I also prefer **open-source tooling** when it is the right fit for the problem.
 
 ---
 
-## Research
+## Research & education
 
-My MBA capstone research on sanitation and education indicators in Brazilian municipalities was later developed into a published scientific article.
+**MBA in Data Science & Analytics — USP/ESALQ**  
+Research in clustering, public data and multivariate analysis.
 
-**DOI:** [10.29327/23189258.1068040](https://doi.org/10.29327/23189258.1068040)
+**B.B.A. in Business Administration — UFRRJ**
+
+My MBA capstone evolved into a published scientific paper:
+
+**Sanitation and Education: Exploring Patterns in Brazilian Municipalities**  
+[DOI 10.29327/23189258.1068040](https://doi.org/10.29327/23189258.1068040)
 
 ---
 
-## Let's connect
+## Current direction
 
-If you are interested in collaborating on **Data Analytics, Business Intelligence, automation or applied data projects**, feel free to reach out.
+I am deepening my work in **analytics engineering, data engineering and software-backed data products**, especially where Python, SQL, automation and decision-support systems intersect.
 
-- Website: [limapablo.com](https://limapablo.com)
-- LinkedIn: [linkedin.com/in/limapablo](https://www.linkedin.com/in/limapablo/)
-- Lattes: [lattes.cnpq.br/3015923614657329](http://lattes.cnpq.br/3015923614657329)
+I am particularly interested in projects that combine:
+
+`data + automation + business problems + reproducible engineering`
+
+---
+
+<div align="center">
+
+### Have a data, analytics or automation problem worth solving?
+
+[**Portfolio**](https://limapablo.com) · [**LinkedIn**](https://www.linkedin.com/in/limapablo/) · [**GitHub Projects**](https://github.com/limapablo?tab=repositories)
+
+</div>
