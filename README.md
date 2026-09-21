@@ -30,39 +30,12 @@ My projects typically cover the full path from **raw data → validation → tra
 
 ---
 
-## Selected work
-
-### [IT Service Desk Analytics](https://github.com/limapablo/it-service-desk-analytics)
-**Python · PostgreSQL · SQL · Power BI · Operational Analytics**
-
-End-to-end analytics project built on public IT service desk data from 2020–2026. The project is structured around ingestion, data-quality validation, analytical modeling, KPI design and executive-ready reporting.
-
-**What it demonstrates:** analytical architecture, business questions, Python pipelines, SQL modeling, semantic thinking and BI delivery.
-
----
-
-### [Alexandria](https://github.com/limapablo/Alexandria)
-**Python · Flask · SQLite · OCR · GitHub Actions · Windows/Linux**
-
-Cross-platform local document library focused on acquisition, text extraction, OCR, search and source tracking. The application includes local-first architecture, security controls, automated tests and CI validation across Windows and Linux.
-
-**What it demonstrates:** application architecture, security-conscious development, testing, cross-platform packaging and maintainability.
-
----
-
-### [Intelligent Debt Amortization Simulator](https://github.com/limapablo/n8n_simulador_de_amortizacao_inteligente)
-**n8n · JavaScript · APIs · Monte Carlo Simulation · Financial Modeling**
-
-Decision-support workflow that combines live Brazilian macroeconomic data, automated calculations, sensitivity analysis and Monte Carlo simulation to compare debt, investment and financing scenarios.
-
-**What it demonstrates:** workflow automation, API integration, quantitative reasoning and auditable decision logic.
-
----
+## Featured work
 
 ### [Rental Price Prediction](https://github.com/limapablo/rental-price-prediction)
 **Python · XGBoost · Scikit-learn · Streamlit**
 
-End-to-end machine-learning project for estimating residential rental prices in Brazil's Federal District, from exploratory analysis and feature engineering to model deployment in an interactive application.
+End-to-end machine-learning project for estimating residential rental prices in Brazil's Federal District, covering exploratory analysis, feature engineering, model training, evaluation and deployment in an interactive application.
 
 **[Open the live app →](https://rental-price-prediction-apktbzfvgnenub8uc4bxrv.streamlit.app/)**
 
@@ -74,6 +47,41 @@ End-to-end machine-learning project for estimating residential rental prices in 
 Research project originally developed as an MBA capstone and later published as a scientific paper. It applies clustering and multivariate analysis to sanitation and education indicators across **5,556 Brazilian municipalities**.
 
 **[Read the published paper →](https://doi.org/10.29327/23189258.1068040)**
+
+---
+
+### [Intelligent Debt Amortization Simulator](https://github.com/limapablo/n8n_simulador_de_amortizacao_inteligente)
+**n8n · JavaScript · APIs · Monte Carlo Simulation · Financial Modeling**
+
+Decision-support workflow combining live Brazilian macroeconomic data, automated calculations, sensitivity analysis and Monte Carlo simulation to compare debt, investment and financing scenarios.
+
+**What it demonstrates:** workflow automation, API integration, quantitative reasoning and auditable decision logic.
+
+---
+
+## In development
+
+These projects are actively being built and documented in public. I keep them visible because the repositories show the engineering process, architecture decisions and iteration history — not only the final result.
+
+### [IT Service Desk Analytics](https://github.com/limapablo/it-service-desk-analytics)
+**Python · PostgreSQL · SQL · Power BI · Operational Analytics**
+
+An end-to-end analytics project using public IT service desk data from 2020–2026.
+
+**Current scope:** data understanding, ingestion design, data-quality validation, analytical modeling, KPI design and Power BI delivery.
+
+**Status:** active development.
+
+---
+
+### [Alexandria](https://github.com/limapablo/Alexandria)
+**Python · Flask · SQLite · OCR · GitHub Actions · Windows/Linux**
+
+A cross-platform, local-first document library focused on acquisition, text extraction, OCR, search and source tracking.
+
+The project already includes core architecture, local security controls, automated tests and cross-platform CI, but the application is still evolving toward a more complete and polished release.
+
+**Status:** early-stage / active development.
 
 ---
 
